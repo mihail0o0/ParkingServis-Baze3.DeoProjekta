@@ -1,0 +1,179 @@
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+*.pm
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Microsoft Visual Studio
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+## Mono auto generated files
+mono_crash.*
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# MSTest test Results
+TestResults
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+
+# Build Results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Chutzpah Test files
+_Chutzpah*
+stylecop.*
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# Business Intelligence projects
+*.rdl.data
+*.bim.layout
+*.bim_*.settings
+
+# LightSwitch generated files
+GeneratedArtifacts
+_Pvt_Extensions
+ModelManifest.xml
+*.HtmlClient.zip
+
+# Node.js
+node_modules/
+
+# Enable "Build" folder in the NuGet Package Manager settings
+!packages/build/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+.vscode-test/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# DotNetSonarQube
+.sonarqube/out/
+
+# Styles
+*StyleCop/
+*stylecop
+
+# IDEs
+.idea/
+.vscode/
+.vscode-test/
+
+# dotnet pack
+*.nupkg
+
+# Visual Studio 2019
+.vscode/
+.vscode-test/
+
+# Local History for JetBrains IDEs
+.idea/.idea/workspace.xml
+.idea/.idea/tasks.xml
+.idea/.idea/.taskManagement
+.idea/.idea/.taskManager
+.idea/.idea/.gitignore
+
+# JetBrains IDEs - system folders
+.idea/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/.idea/
+.idea/./
+
+# Rider IDEs
+.idea/
+.idea/.idea/
+.idea/./
+
+# Rider - Cache
+.idea/cache/
+.idea/index/
+
+# Rider - Temp files
+.idea/shelf/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/.idea/
+.idea/.idea/
+
+# Visual Studio Code
+.vscode/
+.vscode-test/
+.vscode/settings.json
+.vscode/extensions.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/.*
